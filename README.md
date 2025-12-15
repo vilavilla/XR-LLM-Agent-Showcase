@@ -8,7 +8,6 @@
 
 > **A low-latency, fully offline conversational AI system running on consumer hardware, featuring real-time speech processing, local LLM inference, and procedural avatar animation in Mixed Reality.**
 
-[INSERT DEMO GIF HERE - Full interaction loop: wake word → speech → avatar response]
 
 ---
 
@@ -48,7 +47,6 @@ User Voice Input → STT (Whisper) → LLM (Mistral/Llama3) → TTS (Piper) → 
 | **Wake Word** | Windows Speech Recognition | Hands-free activation ("Hey Marc") |
 | **Avatar Rendering** | Custom PBR Shaders | Robotic character with LED feedback systems |
 
-[INSERT ARCHITECTURE DIAGRAM HERE]
 
 ---
 
@@ -116,7 +114,6 @@ The robotic avatar ("Toro") features:
   - Lip-sync driven by Animator blend trees
 - **Design Philosophy**: Deliberately non-humanoid to avoid uncanny valley, inspired by industrial robots
 
-[INSERT AVATAR RENDER/SCREENSHOT HERE]
 
 ---
 
@@ -198,7 +195,7 @@ Avatar: [Speaks response with procedural gestures]
 ### Setup (High-Level)
 ```bash
 # 1. Clone repository (after public release)
-git clone https://github.com/[username]/XR-LLM-Agent-Showcase.git
+git clone https://github.com/vilavilla/XR-LLM-Agent-Showcase.git
 
 # 2. Install Python dependencies
 cd Backend
@@ -245,7 +242,7 @@ python run_server.py  # Runs on http://127.0.0.1:8000
 - Embodied conversational agents for specialized domains
 
 **Supervisor**: [To be filled]  
-**Defense Date**: June 2025 (expected)
+**Defense Date**: January 2025 (expected)
 
 ---
 
@@ -295,15 +292,6 @@ I'm actively seeking **research internships** in:
 - Human-Computer Interaction
 
 📍 **Open to opportunities in**: Switzerland, EU, Remote
-
----
-
-## 📄 License
-
-This project is part of an academic thesis. Source code will be released under [MIT License] after university defense (June 2025).
-
-**Current Status**: 🔒 Closed source (IP restrictions)  
-**Post-Defense**: 🔓 Open source planned
 
 ---
 
