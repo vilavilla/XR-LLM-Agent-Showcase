@@ -317,7 +317,7 @@ FIB-UPC
 
 ## ⚖️ License & Copyright
 
-**© 2025 [Tu Nombre Completo]. All Rights Reserved.**
+**© 2025 Joan Vila Orus. All Rights Reserved.**
 
 This repository contains the documentation and architectural overview of a Bachelor Thesis (TFG) currently in progress at **Universitat Politècnica de Catalunya (UPC - FIB)**.
 
