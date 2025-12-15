@@ -326,4 +326,3 @@ Due to academic regulations and intellectual property protection prior to the th
 * 🚫 **No permission is granted** to use, copy, modify, or distribute the contents of this repository without explicit written permission from the author.
 * 👀 This repository is intended solely for **portfolio and demonstration purposes**.
 
-The full source code will be released under an open-source license (MIT/Apache 2.0) *after* the successful defense of the thesis.
